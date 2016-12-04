@@ -1,0 +1,4 @@
+?package(teamspeak-client): needs="X11" \
+  section="Applications/Network/Communication" title="TeamSpeak" \
+  longtitle="VoIP chat for online gaming" command="/usr/bin/teamspeak" \
+  icon="/usr/share/pixmaps/teamspeak.png"

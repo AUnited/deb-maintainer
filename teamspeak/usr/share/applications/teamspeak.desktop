@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=TeamSpeak
+Comment=VoIP chat for online gaming
+Exec=teamspeak
+Icon=teamspeak.png
+Terminal=false
+Type=Application
+Categories=Application;Network;Telephony;
+StartupNotify=true

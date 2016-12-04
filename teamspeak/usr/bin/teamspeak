@@ -1,0 +1,9 @@
+#!/bin/sh
+
+# This file is public domain.
+
+cd /opt/ts3client;
+export QT_PLUGIN_PATH="${PWD}";
+export LD_LIBRARY_PATH="${PWD}:${LD_LIBRARY_PATH}";
+./ts3client $@;
+exit "$?";
