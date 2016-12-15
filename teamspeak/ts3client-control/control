@@ -1,7 +1,7 @@
 Package: ts3client
 Version: 3.0.10.1
 Architecture: amd64
-Maintainer: Sorokin Alexei <sor.alexei@hotbox.ru>
+Maintainer: Vitaliy Zhukov <maintainer@aunited.ru>
 Installed-Size: 55695
 Depends: libaudio2
 Section: net
